@@ -17,7 +17,7 @@ public class PlayerVsPlayer extends AppCompatActivity implements View.OnClickLis
 
     Button[][] buttons = new Button[3][3];
 
-        boolean turno = true;
+    boolean turno = true;
 
     int turnCounter=0;
     int player1Point =0;
